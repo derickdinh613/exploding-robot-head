@@ -70,3 +70,8 @@ body {
   left: 300px;
   top: -7px;
 }
+
+.robot:hover > .robot-brain {
+  left: 300px;
+  top: -7px;
+}
