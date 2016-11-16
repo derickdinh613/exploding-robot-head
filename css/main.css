@@ -63,7 +63,7 @@ body {
 
 .robot:hover > .robot-head-right {
   left: 300px;
-  top: -7px
+  top: -7px;
 }
 
 .robot:hover > .robot-head-left {
